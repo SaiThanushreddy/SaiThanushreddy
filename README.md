@@ -24,22 +24,19 @@ An online deployment platform similar to Vercel, utilizing Docker, AWS ECR, and 
 ### 2. [Twitter Clone](https://github.com/ThanushReddy/twitter-clone)
 A scalable social media platform built with GraphQL, Express, Redis, and Next.js, featuring real-time updates and notifications.
 
-### 3. [Todo App with Authentication](https://github.com/ThanushReddy/todo-app)
-A full-featured todo application using NextAuth for authentication, MongoDB for storage, and React for a responsive user interface.
-
 ---
 
-## 📈 GitHub Stats
 
-![Thanush Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanushReddy&show_icons=true&theme=radical)
-
----
 
 ## 🌱 Currently Learning
 
 - Advanced DevOps practices (Kubernetes, Terraform)
 - Deep dive into WebSockets and real-time applications
 - Improving scalability and performance optimization for large-scale apps
+
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) Kubernetes
+- ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=websocket&logoColor=white&style=flat) Real-time WebSockets
+- ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) Redis Performance Tuning
 
 ---
 
@@ -50,6 +47,16 @@ A full-featured todo application using NextAuth for authentication, MongoDB for 
 - - Email: saithanushreddy66@gmail.com
 
 ---
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+
+
 
 **“Always learning, always building!”**
 
