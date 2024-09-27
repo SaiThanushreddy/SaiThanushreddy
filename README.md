@@ -10,7 +10,7 @@ I'm a passionate web developer specializing in building modern, scalable web app
 - **Frontend:** React, Next.js, Tailwind CSS, Redux, Bootstrap
 - **Backend:** Node.js, Express, GraphQL, RESTful APIs
 - **Databases:** MongoDB, PostgreSQL, Redis
-- **DevOps & Cloud:** AWS (S3, EC2, Lambda), Docker, Kubernetes
+- **DevOps & Cloud:** AWS, Docker, Kubernetes
 - **Version Control:** Git, GitHub, GitLab
 - **Other Tools:** WebSockets, Redis Pub/Sub, React Query, Mongoose, Prisma
 
