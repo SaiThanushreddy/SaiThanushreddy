@@ -42,7 +42,6 @@ A scalable social media platform built with GraphQL, Express, Redis, and Next.js
 
 ## 💬 Let's Connect!
 
-- [GitHub](https://github.com/ThanushReddy)
 - [LinkedIn](https://www.linkedin.com/in/sai-thanush-reddy-13b5a9288/)
 - - Email: saithanushreddy66@gmail.com
 
