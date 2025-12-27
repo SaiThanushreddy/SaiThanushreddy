@@ -14,7 +14,7 @@ I'm a full-stack engineer who builds production-grade web applications with a fo
 
 ## 🛠 Featured Projects
 
-### [Beaam](https://beaam.online) - AI App/Website Builder
+### Beaam - AI App/Website Builder
 An AI-powered no-code builder that generates full-stack applications in real-time using LLM streaming.
 - Real-time code generation with WebSocket streaming
 - Live preview with hot reload
@@ -22,14 +22,15 @@ An AI-powered no-code builder that generates full-stack applications in real-tim
 - Built with: Next.js, TypeScript, FastAPI, PostgreSQL, Redis
 - [View Code](https://github.com/SaiThanushreddy/beam)
 
-### [Kubernetes Microservices Deployment](https://yummy-class-663.notion.site/2b123f52869a80bdafbcc034beefdce3)
+### Kubernetes Microservices Deployment
 Production-grade K8s cluster with full observability stack for Google's microservices demo.
 - Deployed 11 microservices with Helm
 - Integrated Grafana, Prometheus, Loki, Tempo
 - Custom dashboards for monitoring & distributed tracing
 - Infrastructure as Code with proper resource management
+- [View Documentation](https://yummy-class-663.notion.site/2b123f52869a80bdafbcc034beefdce3)
 
-### [LegalEase](https://legalease-ten.vercel.app)
+### LegalEase - AI Legal Assistant
 AI-powered legal assistant for contract analysis and document extraction.
 - PDF processing with intelligent data extraction
 - Multi-step LLM workflows for contract analysis
@@ -41,22 +42,22 @@ Vercel-like deployment system with Docker containerization and real-time logs.
 - Real-time log streaming via WebSockets + Redis Pub/Sub
 - Infrastructure orchestration on AWS
 
-### [SnapCache](https://github.com/SaiThanushreddy/SnapCache)
+### SnapCache
 Redis clone implementation in Go with core data structures and commands.
 - In-memory key-value store with persistence
 - TCP server with RESP protocol
 - Built from scratch to understand distributed systems
+- [View Code](https://github.com/SaiThanushreddy/SnapCache)
 
 ## 🌱 Currently Exploring
 
 - Advanced K8s patterns (service mesh, operators)
 - LLM application architecture & optimization
 - Distributed systems & real-time data pipelines
-- Contributing to open source ([Lightdash PR #18688](https://github.com/lightdash/lightdash/pull/18688))
+- Contributing to open source 
 
 ## 📫 Let's Connect
 
-- **Portfolio:** [saithanushreddy.vercel.app](https://saithanushreddy.vercel.app)
 - **Email:** saithanushreddy66@gmail.com
 - **LinkedIn:** [linkedin.com/in/sai-thanush-reddy](https://www.linkedin.com/in/sai-thanush-reddy-pabbisetty-5b6385252/)
 - **GitHub:** You're already here! 👋
