@@ -1,76 +1,66 @@
 # Hi, I'm Thanush Reddy! 👋
 
-I'm a passionate web developer specializing in building modern, scalable web applications. I love solving complex problems, learning new technologies, and contributing to open-source projects. My expertise lies in full-stack development, and I enjoy creating both front-end and back-end solutions.
+I'm a full-stack engineer who builds production-grade web applications with a focus on AI, real-time systems, and cloud infrastructure. I love solving complex technical problems and shipping complete products end-to-end.
+
+## 🚀 Tech Stack
+
+**Languages:** JavaScript/TypeScript, Python, Go  
+**Frontend:** React, Next.js, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Express, FastAPI, GraphQL, RESTful APIs  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**AI/LLM:** OpenAI API, Claude API, streaming responses, RAG systems  
+**DevOps:** Docker, Kubernetes, AWS (S3, EC2, ECS, ECR), Grafana, Prometheus  
+**Tools:** WebSockets, Prisma, Zustand, React Query
+
+## 🛠 Featured Projects
+
+### [Beaam](https://beaam.online) - AI App/Website Builder
+An AI-powered no-code builder that generates full-stack applications in real-time using LLM streaming.
+- Real-time code generation with WebSocket streaming
+- Live preview with hot reload
+- One-click deployment pipeline
+- Built with: Next.js, TypeScript, FastAPI, PostgreSQL, Redis
+- [View Code](https://github.com/SaiThanushreddy/beam)
+
+### [Kubernetes Microservices Deployment](https://yummy-class-663.notion.site/2b123f52869a80bdafbcc034beefdce3)
+Production-grade K8s cluster with full observability stack for Google's microservices demo.
+- Deployed 11 microservices with Helm
+- Integrated Grafana, Prometheus, Loki, Tempo
+- Custom dashboards for monitoring & distributed tracing
+- Infrastructure as Code with proper resource management
+
+### [LegalEase](https://legalease-ten.vercel.app)
+AI-powered legal assistant for contract analysis and document extraction.
+- PDF processing with intelligent data extraction
+- Multi-step LLM workflows for contract analysis
+- Built with: Next.js, TypeScript, OpenAI API
+
+### One-Click Deployment Platform
+Vercel-like deployment system with Docker containerization and real-time logs.
+- Automated build pipeline with Docker + AWS ECR
+- Real-time log streaming via WebSockets + Redis Pub/Sub
+- Infrastructure orchestration on AWS
+
+### [SnapCache](https://github.com/SaiThanushreddy/SnapCache)
+Redis clone implementation in Go with core data structures and commands.
+- In-memory key-value store with persistence
+- TCP server with RESP protocol
+- Built from scratch to understand distributed systems
+
+## 🌱 Currently Exploring
+
+- Advanced K8s patterns (service mesh, operators)
+- LLM application architecture & optimization
+- Distributed systems & real-time data pipelines
+- Contributing to open source ([Lightdash PR #18688](https://github.com/lightdash/lightdash/pull/18688))
+
+## 📫 Let's Connect
+
+- **Portfolio:** [saithanushreddy.vercel.app](https://saithanushreddy.vercel.app)
+- **Email:** saithanushreddy66@gmail.com
+- **LinkedIn:** [linkedin.com/in/sai-thanush-reddy](https://www.linkedin.com/in/sai-thanush-reddy-pabbisetty-5b6385252/)
+- **GitHub:** You're already here! 👋
 
 ---
 
-## 🚀 Technologies & Tools
-
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Python
-- **Frontend:** React, Next.js, Tailwind CSS, Redux, Bootstrap
-- **Backend:** Node.js, Express, GraphQL, RESTful APIs
-- **Databases:** MongoDB, PostgreSQL, Redis
-- **DevOps & Cloud:** AWS, Docker, Kubernetes
-- **Version Control:** Git, GitHub, GitLab
-- **Other Tools:** WebSockets, Redis Pub/Sub, React Query, Mongoose, Prisma
-
----
-
-## 🛠 Projects
-
-### 1. [Online Deployment Platform](https://github.com/ThanushReddy/online-deployment-platform)
-An online deployment platform similar to Vercel, utilizing Docker, AWS ECR, and real-time log pushing with WebSockets and Redis.
-
-### 2. [Twitter Clone](https://github.com/ThanushReddy/twitter-clone)
-A scalable social media platform built with GraphQL, Express, Redis, and Next.js, featuring real-time updates and notifications.
-
----
-
-
-
-## 🌱 Currently Learning
-
-- Advanced DevOps practices (Kubernetes, Terraform)
-- Deep dive into WebSockets and real-time applications
-- Improving scalability and performance optimization for large-scale apps
-
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) Kubernetes
-- ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=websocket&logoColor=white&style=flat) Real-time WebSockets
-- ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) Redis Performance Tuning
-
----
-
-## 💬 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/sai-thanush-reddy-13b5a9288/)
-- - Email: saithanushreddy66@gmail.com
-
----
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
-
-
-
-**“Always learning, always building!”**
-
-
-<!--
-**SaiThanushreddy/SaiThanushreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Building products that solve real problems, one commit at a time."*
